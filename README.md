@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure CLI & Bash Scripting Lab</b>
-  - <a href="https://github.com/picksix3/azure-cli-powershell-bash-lab">Azure Resource Group & Storage Automation (GitHub)</a>
+- <a href="https://github.com/picksix3/azure-cli-powershell-bash-lab"><b>Azure CLI & Bash Scripting Lab</b></a>
 
 <h2>📄 Certifications:</h2>
 
