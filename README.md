@@ -23,6 +23,10 @@
 - <b>[Agile with Atlassian Jira](https://www.coursera.org/account/accomplishments/verify/UPQ5B27SFZL9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)</b>
 - <b>[Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/verify/R6YTHYQTQA3G)</b>
 
+<h2>  Personal Cheat Sheets:</h2>
+
+- <a href="https://github.com/elismall/azure-cli-cheat-sheet"><b>Azure CLI Beginner Cheat Sheet</b></a>
+
 <h2> Currently Working On:</h2>
 <ul>
   <li>Studying for AZ-104: Azure Administrator Certification</li>
@@ -31,11 +35,6 @@
   <li>Building cloud automation projects with Terraform and PowerShell</li>
   <li>Learning infrastructure monitoring with Azure Monitor and KQL</li>
 </ul>
-
-
-<h2>  Personal Cheat Sheets:</h2>
-
-- <a href="https://github.com/elismall/azure-cli-cheat-sheet"><b>Azure CLI Beginner Cheat Sheet</b></a>
 
 ---
 
