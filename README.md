@@ -1,17 +1,46 @@
 <h1>Hi, I'm Elijah! <a href="https://www.linkedin.com/in/elijah-small-73305725a/" target="_blank">Connect with me on LinkedIn</a></h1>
+<p>I'm an aspiring Cloud Security Engineer with hands-on experience in Azure, scripting, and SOC tools like Microsoft Sentinel. I'm passionate about defending systems, building infrastructure, and continuously learning through homelab projects and certifications. Currently pursuing AZ-104 and expanding my skills in CLI and automation.</p>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> Skills & Tools:</h2>
+<ul>
+  <li><strong>Cloud Platforms:</strong> Microsoft Azure, Microsoft 365, Entra ID (Azure AD)</li>
+  <li><strong>Scripting:</strong> Bash, PowerShell, Python, KQL</li>
+  <li><strong>Security:</strong> Microsoft Sentinel, Log Analytics, SIEM Concepts, Threat Detection, Access Control</li>
+  <li><strong>Cybersecurity:</strong> Security+ Certified, Incident Response, Windows Security Events, Network Security (TCP/IP, DNS, DHCP)</li>
+  <li><strong>Tools</strong>: Azure CLI, Jira, GitHub, Linux CLI, ServiceNow</li>
+  <li><strong>AI & Automation:</strong> ChatGPT, Microsoft Copilot, Azure OpenAI, Power Automate</li>
+</ul>
+
+<h2> Cybersecurity Projects:</h2>
 
 - <a href="https://github.com/elismall/HOMELAB-MS-SENTINEL"><b>Azure Sentinel Home SOC Lab</b></a>
 - <a href="https://github.com/picksix3/azure-cli-powershell-bash-lab"><b>Azure CLI & Bash Scripting Lab</b></a>
 
-<h2>📄 Certifications:</h2>
+<h2> Certifications:</h2>
 
 - <b>[SY0-701 CompTIA Security+](https://www.credly.com/badges/30ddef5d-62f6-4ad2-9677-a976d0154346/public_url)</b>
 - <b>[AZ-900 Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/ElijahSmall-6774/F7DEAD1E9FE7E0C1?sharingId=1DA9E0701D40A7E7)</b>
 - <b>[Agile with Atlassian Jira](https://www.coursera.org/account/accomplishments/verify/UPQ5B27SFZL9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)</b>
 - <b>[Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/verify/R6YTHYQTQA3G)</b>
 
+<h2> Currently Working On:</h2>
+<ul>
+  <li>Studying for AZ-104: Azure Administrator Certification</li>
+  <li>Deepening knowledge of Entra ID (Azure AD): identity management, RBAC, conditional access, and hybrid identity</li>
+  <li>Continuously building skills in AI-900: Microsoft Azure AI Fundamentals</li>
+  <li>Building cloud automation projects with Terraform and PowerShell</li>
+  <li>Learning infrastructure monitoring with Azure Monitor and KQL</li>
+</ul>
+
+
+<h2>  Personal Cheat Sheets:</h2>
+
+- <a href="https://github.com/elismall/azure-cli-cheat-sheet"><b>Azure CLI Beginner Cheat Sheet</b></a>
+
+---
+
+<h3>📫 Let's Connect</h3>
+<p>If you're hiring, collaborating, or just want to talk tech — feel free to <a href="mailto:elijahsmall.es@gmail.com">email me</a>.</p>
 
 <!--
 
