@@ -12,7 +12,12 @@
 - <b>[AZ-900 Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/ElijahSmall-6774/F7DEAD1E9FE7E0C1?sharingId=1DA9E0701D40A7E7)</b>
 - <b>[Agile with Atlassian Jira](https://www.coursera.org/account/accomplishments/verify/UPQ5B27SFZL9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)</b>
 - <b>[Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/verify/R6YTHYQTQA3G)</b>
-  
+
+<h2>🔑 Personal Cheat Sheets:</h2>
+
+- <a href="https://github.com/elismall/azure-cli-cheat-sheet"><b>Azure CLI Beginner Cheat Sheet</b></a>
+
+
 <!--
 **picksix3/picksix3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
