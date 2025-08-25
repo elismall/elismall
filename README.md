@@ -5,9 +5,9 @@
 <ul>
   <li><strong>Cloud Platforms:</strong> Microsoft Azure, Microsoft 365, Entra ID (Azure AD)</li>
   <li><strong>Scripting:</strong> Bash, PowerShell, Python, KQL</li>
-  <li><strong>Security:</strong> Microsoft Sentinel, Log Analytics, SIEM Concepts, Threat Detection, Access Control</li>
+  <li><strong>Security:</strong> Microsoft Sentinel, Log Analytics, SIEM Concepts, Splunk, Threat Detection, Access Control</li>
   <li><strong>Cybersecurity:</strong> Security+ Certified, Incident Response, Windows Security Events, Network Security (TCP/IP, DNS, DHCP)</li>
-  <li><strong>Tools</strong>: Azure CLI, Jira, GitHub, Linux CLI, ServiceNow</li>
+  <li><strong>Tools</strong>: Azure CLI, Jira, , GitHub, Linux CLI, ServiceNow, ZenDesk</li>
   <li><strong>AI & Automation:</strong> ChatGPT, Microsoft Copilot, Azure OpenAI, Power Automate</li>
 </ul>
 
@@ -30,6 +30,7 @@
 <h2> Currently Working On:</h2>
 <ul>
   <li>Studying for AZ-104: Azure Administrator Certification</li>
+  <li>Expanding Threat Detection Techniques and Best Practices</li>
   <li>Deepening knowledge of Entra ID (Azure AD): identity management, RBAC, conditional access, and hybrid identity</li>
   <li>Continuously building skills in AI-900: Microsoft Azure AI Fundamentals</li>
   <li>Building cloud automation projects with Terraform and PowerShell</li>
