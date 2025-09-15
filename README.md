@@ -1,5 +1,5 @@
 <h1>Hi, I'm Elijah! <a href="https://www.linkedin.com/in/elijah-small-73305725a/" target="_blank">Connect with me on LinkedIn</a></h1>
-<p>I'm an aspiring Cloud Security Engineer with hands-on experience in Azure, scripting, and SOC tools like Microsoft Sentinel. I'm passionate about defending systems, building infrastructure, and continuously learning through homelab projects and certifications. Currently pursuing AZ-104 and expanding my skills in CLI and automation.</p>
+<p>I'm an IT Security Professional with hands-on experience in Azure, scripting, and SOC tools like Microsoft Sentinel. I'm passionate about defending systems, building infrastructure, and continuously learning through homelab projects and certifications. Currently pursuing AZ-104 and expanding my skills in CLI and automation.</p>
 
 <h2> Skills & Tools:</h2>
 <ul>
@@ -7,7 +7,7 @@
   <li><strong>Scripting:</strong> Bash, PowerShell, Python, KQL</li>
   <li><strong>Security:</strong> Microsoft Sentinel, Log Analytics, SIEM Concepts, Splunk, Threat Detection, Access Control</li>
   <li><strong>Cybersecurity:</strong> Security+ Certified, Incident Response, Windows Security Events, Network Security (TCP/IP, DNS, DHCP)</li>
-  <li><strong>Tools</strong>: Azure CLI, Jira, , GitHub, Linux CLI, ServiceNow, ZenDesk</li>
+  <li><strong>Tools</strong>: Azure CLI, Jira, GitHub, Linux CLI, ServiceNow, ZenDesk</li>
   <li><strong>AI & Automation:</strong> ChatGPT, Microsoft Copilot, Azure OpenAI, Power Automate</li>
 </ul>
 
@@ -30,7 +30,7 @@
 <h2> Currently Working On:</h2>
 <ul>
   <li>Studying for AZ-104: Azure Administrator Certification</li>
-  <li>Expanding Threat Detection Techniques and Best Practices</li>
+  <li>Expanding Threat Detection & Vulnerability Assesments Techniques and Best Practices</li>
   <li>Deepening knowledge of Entra ID (Azure AD): identity management, RBAC, conditional access, and hybrid identity</li>
   <li>Continuously building skills in AI-900: Microsoft Azure AI Fundamentals</li>
   <li>Building cloud automation projects with Terraform and PowerShell</li>
