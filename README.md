@@ -3,12 +3,13 @@
 
 <h2> Skills & Tools:</h2>
 <ul>
-  <li><strong>Cloud Platforms:</strong> Microsoft Azure, Microsoft 365, Entra ID (Azure AD)</li>
+  <li><strong>Platforms:</strong> Microsoft Azure, Microsoft 365, Entra ID (Azure AD)</li>
   <li><strong>Scripting:</strong> Bash, PowerShell, Python, KQL</li>
-  <li><strong>Security:</strong> Microsoft Sentinel, Log Analytics, SIEM Concepts, Splunk, Threat Detection, Access Control</li>
-  <li><strong>Cybersecurity:</strong> Security+ Certified, Incident Response, Windows Security Events, Network Security (TCP/IP, DNS, DHCP)</li>
-  <li><strong>Tools</strong>: Azure CLI, Jira, GitHub, Linux CLI, ServiceNow, ZenDesk</li>
+  <li><strong>Security:</strong> Microsoft Sentinel, Log Analytics, SIEM Concepts, Splunk, LenelS2, Threat Detection, Access Control</li>
+  <li><strong>Protocols & Compliance:</strong> TCP/IP, DNS, DHCP, RDP, GDPR, HIPPA, PII</li>
+  <li><strong>Tools</strong>: Azure CLI, Jira, GitHub, Linux CLI, ServiceNow, ZenDesk, KnowBe</li>
   <li><strong>AI & Automation:</strong> ChatGPT, Microsoft Copilot, Azure OpenAI, Power Automate</li>
+  <li><strong>Tech Support:</strong> Zoho Assist, ZenDesk, MS365</li>
 </ul>
 
 <h2> Cybersecurity Projects:</h2>
