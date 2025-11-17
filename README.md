@@ -1,13 +1,13 @@
 <h1>Hi, I'm Elijah! <a href="https://www.linkedin.com/in/elijah-small-73305725a/" target="_blank">Connect with me on LinkedIn</a></h1>
-<p>I'm an IT Security Professional with hands-on experience in Azure, scripting, and SOC tools like Microsoft Sentinel. I'm passionate about defending systems, building infrastructure, and continuously learning through homelab projects and certifications. Currently pursuing AZ-104 and expanding my skills in CLI and automation.</p>
+<p>I'm an IT Professional with hands-on experience with Windows11/10, MS365, Azure, scripting, and SOC tools like Microsoft Sentinel. I'm passionate about end user support, defending systems, building infrastructure, and continuously learning through homelab projects and certifications. Currently pursuing AZ-104 and expanding my skills in CLI and automation.</p>
 
 <h2> Skills & Tools:</h2>
 <ul>
-  <li><strong>Platforms:</strong> Microsoft Azure, Microsoft 365, Entra ID (Azure AD)</li>
+  <li><strong>Platforms:</strong> Windows 11, MacOS, Linux, Microsoft Azure, MS365, Entra ID (Azure AD)</li>
   <li><strong>Scripting:</strong> Bash, PowerShell, Python, KQL</li>
-  <li><strong>Security:</strong> Microsoft Sentinel, Log Analytics, SIEM Concepts, Splunk, LenelS2, Threat Detection, Access Control</li>
-  <li><strong>Protocols & Compliance:</strong> TCP/IP, DNS, DHCP, RDP, GDPR, HIPPA, PII</li>
-  <li><strong>Tools</strong>: Azure CLI, Jira, GitHub, Linux CLI, ServiceNow, ZenDesk, KnowBe</li>
+  <li><strong>Security:</strong> Microsoft Sentinel, Log Analytics, SIEM Concepts, Splunk, Knowbe4, LenelS2 Access Control, Threat Detection, Access Control</li>
+  <li><strong>Protocols & Compliance:</strong> TCP/IP, DNS, DHCP, SMTP, OAuth 2.0, RDP, GDPR, HIPPA, PII</li>
+  <li><strong>Tools</strong>: Azure CLI, Jira, GitHub, Linux CLI, ServiceNow, ZenDesk</li>
   <li><strong>AI & Automation:</strong> ChatGPT, Microsoft Copilot, Azure OpenAI, Power Automate</li>
   <li><strong>Tech Support:</strong> Zoho Assist, ZenDesk, MS365</li>
 </ul>
@@ -30,9 +30,9 @@
 
 <h2> Currently Working On:</h2>
 <ul>
-  <li>Studying for AZ-104: Azure Administrator Certification</li>
+  <li>Studying Networking & Cloud concepts</li>
   <li>Expanding Threat Detection & Vulnerability Assesments Techniques and Best Practices</li>
-  <li>Deepening knowledge of Entra ID (Azure AD): identity management, RBAC, conditional access, and hybrid identity</li>
+  <li>Deepening knowledge of AD, Entra ID (Azure AD): identity management, RBAC, conditional access, and hybrid identity</li>
   <li>Continuously building skills in AI-900: Microsoft Azure AI Fundamentals</li>
   <li>Building cloud automation projects with Terraform and PowerShell</li>
   <li>Learning infrastructure monitoring with Azure Monitor and KQL</li>
