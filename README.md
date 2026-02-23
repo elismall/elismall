@@ -3,13 +3,18 @@
 
 <h2> Skills & Tools:</h2>
 <ul>
-  <li><strong>Platforms:</strong> Windows 11, MacOS, Linux, Microsoft Azure, MS365, Entra ID (Azure AD)</li>
-  <li><strong>Scripting:</strong> Bash, PowerShell, Python, KQL</li>
-  <li><strong>Security:</strong> Microsoft Sentinel, Log Analytics, SIEM Concepts, Splunk, Knowbe4, LenelS2 Access Control, Threat Detection, Access Control</li>
-  <li><strong>Protocols & Compliance:</strong> TCP/IP, DNS, DHCP, SMTP, OAuth 2.0, RDP, GDPR, HIPPA, PII</li>
-  <li><strong>Tools</strong>: Azure CLI, Jira, GitHub, Linux CLI, ServiceNow, ZenDesk</li>
-  <li><strong>AI & Automation:</strong> ChatGPT, Microsoft Copilot, Azure OpenAI, Power Automate</li>
-  <li><strong>Tech Support:</strong> Zoho Assist, ZenDesk, MS365</li>
+  
+<li><strong>Platforms:</strong> Windows Server, Windows 11/10, macOS, Linux, Microsoft Azure, Microsoft 365, Active Directory Domain Services (AD DS), Microsoft Entra ID (Azure AD)</li>
+<li><strong>Scripting:</strong> Bash, PowerShell, Python, KQL</li>
+<li><strong>Security:</strong> Microsoft Sentinel, Azure Monitor Logs (Log Analytics), SIEM concepts, Splunk, KnowBe4, LenelS2 Access Control, threat detection, access control, identity and access management (IAM)</li>
+<li><strong>Networking (Network+):</strong> TCP/IP, DNS, DHCP, SMTP, routing and switching fundamentals, subnetting (basic), VLAN concepts, NAT, VPN concepts, Wi-Fi standards (802.11 basics), troubleshooting (OSI model, ping/traceroute/nslookup)</li>
+<li><strong>Protocols & Authentication:</strong> OAuth 2.0, RDP, SSO</li>
+<li><strong>Compliance & Data Protection:</strong> GDPR, HIPAA, PII</li>
+<li><strong>Tools:</strong> Azure CLI, GitHub, Jira, ServiceNow, Zendesk, Linux CLI</li>
+<li><strong>AI & Automation:</strong> ChatGPT, Microsoft Copilot, Azure OpenAI, Power Automate</li>
+<li><strong>Tech Support:</strong> Zoho Assist, Microsoft 365 administration/support</li>
+<li><strong>AV / Collaboration Tech:</strong> Crestron (AV control), conferencing room support (A/V troubleshooting)</li>
+
 </ul>
 
 <h2> IT Projects:</h2>
@@ -19,6 +24,7 @@
 
 <h2> Certifications:</h2>
 
+- <b>[N10-009 CompTIA Network+](https://www.credly.com/badges/52c88537-f5f7-439e-a590-d5c8ad74acd8/public_url)</b>
 - <b>[SY0-701 CompTIA Security+](https://www.credly.com/badges/30ddef5d-62f6-4ad2-9677-a976d0154346/public_url)</b>
 - <b>[AZ-900 Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/ElijahSmall-6774/F7DEAD1E9FE7E0C1?sharingId=1DA9E0701D40A7E7)</b>
 - <b>[Agile with Atlassian Jira](https://www.coursera.org/account/accomplishments/verify/UPQ5B27SFZL9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)</b>
@@ -32,10 +38,7 @@
 <ul>
   <li>Studying Networking & Cloud concepts</li>
   <li>Expanding Threat Detection & Vulnerability Assesments Techniques and Best Practices</li>
-  <li>Deepening knowledge of AD, Entra ID (Azure AD): identity management, RBAC, conditional access, and hybrid identity</li>
-  <li>Continuously building skills in AI-900: Microsoft Azure AI Fundamentals</li>
-  <li>Building cloud automation projects with Terraform and PowerShell</li>
-  <li>Learning infrastructure monitoring with Azure Monitor and KQL</li>
+  <li>Deepening knowledge of AD DS, Entra ID (Azure AD): identity management, RBAC, conditional access, and hybrid identity</li>
 </ul>
 
 ---
