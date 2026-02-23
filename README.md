@@ -12,7 +12,7 @@
   <li><strong>Tech Support:</strong> Zoho Assist, ZenDesk, MS365</li>
 </ul>
 
-<h2> Cybersecurity Projects:</h2>
+<h2> IT Projects:</h2>
 
 - <a href="https://github.com/elismall/HOMELAB-MS-SENTINEL"><b>Azure Sentinel Home SOC Lab</b></a>
 - <a href="https://github.com/picksix3/azure-cli-powershell-bash-lab"><b>Azure CLI & Bash Scripting Lab</b></a>
