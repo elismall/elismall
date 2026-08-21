@@ -1,5 +1,5 @@
 <h1>Hi, I'm Elijah! <a href="https://www.linkedin.com/in/elijah-small-73305725a/" target="_blank">Connect with me on LinkedIn</a></h1>
-<p>I'm an IT Professional with hands-on experience with Windows11/10, MS365, Azure, scripting, and SOC tools like Microsoft Sentinel. I'm passionate about end user support, defending systems, building infrastructure, and continuously learning through homelab projects and certifications. Currently pursuing AZ-104 and expanding my skills in CLI and automation.</p>
+<p>I'm an IT Professional with hands-on experience with Windows11/10, MS365, Azure, scripting, and SOC tools like Microsoft Sentinel. I'm passionate about end user support, defending systems, building infrastructure, and continuously learning through homelab projects and certifications. </p>
 
 <h2> Skills & Tools:</h2>
 <ul>
@@ -37,8 +37,8 @@
 <h2> Currently Working On:</h2>
 <ul>
   <li>Studying Networking & Cloud concepts</li>
-  <li>Expanding Threat Detection & Vulnerability Assesments Techniques and Best Practices</li>
-  <li>Deepening knowledge of AD DS, Entra ID (Azure AD): identity management, RBAC, conditional access, and hybrid identity</li>
+  <li>Expanding Threat Detection & Vulnerability Assessments Techniques and Best Practices</li>
+  <li>Deepening knowledge of AD DS, Entra ID (Azure AD): IAM, RBAC, conditional access, and hybrid identity</li>
 </ul>
 
 ---
