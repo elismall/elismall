@@ -1,19 +1,22 @@
 <h1>Hi, I'm Elijah! <a href="https://www.linkedin.com/in/elijah-small-73305725a/" target="_blank">Connect with me on LinkedIn</a></h1>
-<p>I'm an IT Professional with hands-on experience with Windows11/10, MS365, Azure, scripting, and SOC tools like Microsoft Sentinel. I'm passionate about end user support, defending systems, building infrastructure, and continuously learning through homelab projects and certifications. </p>
+<p>I'm an IT professional with 3+ years of experience working across enterprise support, Microsoft 365, Azure, Windows environments, identity and access management, networking, and endpoint administration. My experience also includes Windows Server and on-premises infrastructure, with a growing focus on hybrid environments that connect traditional systems with modern cloud services. I enjoy building and troubleshooting infrastructure, automating repetitive tasks, strengthening access and security controls, and turning technical concepts into hands-on projects. My current focus is expanding deeper into cloud engineering, IAM, cybersecurity, and hybrid infrastructure through certifications and practical lab environments.</p>
 
 <h2> Skills & Tools:</h2>
 <ul>
   
-<li><strong>Platforms:</strong> Windows Server, Windows 11/10, macOS, Linux, Microsoft Azure, Microsoft 365, Active Directory Domain Services (AD DS), Microsoft Entra ID (Azure AD)</li>
-<li><strong>Scripting:</strong> Bash, PowerShell, Python, KQL</li>
-<li><strong>Security:</strong> Microsoft Sentinel, Azure Monitor Logs (Log Analytics), SIEM concepts, Splunk, KnowBe4, LenelS2 Access Control, threat detection, access control, identity and access management (IAM)</li>
-<li><strong>Networking (Network+):</strong> TCP/IP, DNS, DHCP, SMTP, routing and switching fundamentals, subnetting (basic), VLAN concepts, NAT, VPN concepts, Wi-Fi standards (802.11 basics), troubleshooting (OSI model, ping/traceroute/nslookup)</li>
-<li><strong>Protocols & Authentication:</strong> OAuth 2.0, RDP, SSO</li>
-<li><strong>Compliance & Data Protection:</strong> GDPR, HIPAA, PII</li>
-<li><strong>Tools:</strong> Azure CLI, GitHub, Jira, ServiceNow, Zendesk, Linux CLI</li>
+<li><strong>Platforms & Infrastructure:</strong> Windows Server, Windows 11/10, macOS, Linux, Azure, M365, Hyper-V, on-premises and hybrid environments</li>
+<li><strong>Identity & Access Management:</strong> Active Directory Domain Services, Entra ID, RBAC, MFA, SSO, group-based access control, user provisioning and deprovisioning, Joiner-Mover-Leaver lifecycle management, least privilege</li>
+<li><strong>Scripting & Query Languages:</strong> PowerShell, Bash, Python, KQL</li>
+<li><strong>Cloud & Security:</strong> Microsoft Sentinel, Azure Monitor, Log Analytics, Microsoft Defender, SIEM concepts, threat detection, security monitoring, access control</li>
+<li><strong>Windows Server:</strong> Active Directory, Group Policy, DNS, DHCP, Hyper-V, file and storage services, server administration, hybrid identity concepts</li>
+<li><strong>Networking:</strong> TCP/IP, DNS, DHCP, SMTP, routing and switching, subnetting, VLANs, NAT, VPNs, Wi-Fi, network troubleshooting, OSI model</li>
+<li><strong>Authentication & Identity Protocols:</strong> OAuth 2.0, OpenID Connect (OIDC), SAML, LDAP, Kerberos, SSO</li>
+<li><strong>Administration & DevOps Tools:</strong> Azure CLI, Git, GitHub, Jira, ServiceNow, Zendesk, Linux CLI</li>
 <li><strong>AI & Automation:</strong> ChatGPT, Microsoft Copilot, Azure OpenAI, Power Automate</li>
-<li><strong>Tech Support:</strong> Zoho Assist, Microsoft 365 administration/support</li>
-<li><strong>AV / Collaboration Tech:</strong> Crestron (AV control), conferencing room support (A/V troubleshooting)</li>
+<li><strong>Endpoint & Asset Management:</strong> Windows endpoint support, device provisioning and deprovisioning, hardware asset lifecycle management, device deployment, M365 administration, remote troubleshooting</li>
+<li><strong>Security & Access Technologies:</strong> KnowBe4, LenelS2 Access Control, physical access control, security awareness</li>
+<li><strong>Compliance & Data Protection:</strong> GDPR, HIPAA, PII handling and data protection concepts</li>
+<li><strong>AV & Collaboration:</strong> Crestron AV systems, conference room technologies, A/V troubleshooting and support</li>
 
 </ul>
 
