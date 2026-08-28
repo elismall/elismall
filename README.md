@@ -1,5 +1,15 @@
 <h1>Hi, I'm Elijah! <a href="https://www.linkedin.com/in/elijah-small-73305725a/" target="_blank">Connect with me on LinkedIn</a></h1>
-<p>I'm an IT professional with 3+ years of experience working across enterprise support, Microsoft 365, Azure, Windows environments, identity and access management, networking, and endpoint administration. My experience also includes Windows Server and on-premises infrastructure, with a growing focus on hybrid environments that connect traditional systems with modern cloud services. I enjoy building and troubleshooting infrastructure, automating repetitive tasks, strengthening access and security controls, and turning technical concepts into hands-on projects. My current focus is expanding deeper into cloud engineering, IAM, cybersecurity, and hybrid infrastructure through certifications and practical lab environments.</p>
+<p>I'm an IT professional with 3+ years of experience across enterprise support, Microsoft 365, Azure, Windows environments, identity and access management, networking, endpoint administration, and IT operations.
+
+My experience includes Windows Server and on-premises infrastructure, with a growing focus on hybrid environments that connect traditional systems with modern cloud services. I have hands-on administrative experience with Microsoft 365, Exchange Online, and Active Directory Domain Services, including user management, access control, troubleshooting, and operational support.
+
+Beyond technical administration, I have contributed to developing and maintaining organizational IT policies, including AI governance policies, operational procedures, and security-focused documentation. I have experience working within SLA requirements, creating technical playbooks and knowledge documentation, and helping establish repeatable processes that support efficient, secure, and consistent IT operations.
+
+I enjoy building and troubleshooting infrastructure, automating repetitive tasks, strengthening identity and access controls, improving operational processes, and turning technical concepts into hands-on projects.
+
+My current focus is developing deeper expertise in cloud engineering, identity and access management, cybersecurity, automation, and hybrid infrastructure through certifications, enterprise experience, and practical lab environments.
+
+</p>
 
 <h2> Skills & Tools:</h2>
 <ul>
