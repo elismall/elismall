@@ -11,22 +11,49 @@ My current focus is developing deeper expertise in cloud engineering, identity a
 
 </p>
 
-<h2> Skills & Tools:</h2>
-<ul>
+<h2>Skills & Tools</h2>
 
-<li><strong>Platforms & Infrastructure:</strong> Windows Server, Windows 11/10, macOS, Linux, Azure, M365, Hyper-V, on-premises and hybrid environments</li>
-<li><strong>Identity & Access Management:</strong> Active Directory Domain Services, Entra ID, RBAC, MFA, SSO, group-based access control, user provisioning and deprovisioning, Joiner-Mover-Leaver lifecycle management, least privilege</li>
-<li><strong>Scripting & Query Languages:</strong> PowerShell, Bash, Python, KQL</li>
-<li><strong>Cloud & Security:</strong> Microsoft Sentinel, Azure Monitor, Log Analytics, Microsoft Defender, SIEM concepts, threat detection, security monitoring, access control</li>
-<li><strong>Windows Server:</strong> Active Directory, Group Policy, DNS, DHCP, Hyper-V, file and storage services, server administration, hybrid identity concepts</li>
-<li><strong>Networking:</strong> TCP/IP, DNS, DHCP, SMTP, routing and switching, subnetting, VLANs, NAT, VPNs, Wi-Fi, network troubleshooting, OSI model</li>
-<li><strong>Authentication & Identity Protocols:</strong> OAuth 2.0, OpenID Connect (OIDC), SAML, LDAP, Kerberos, SSO</li>
-<li><strong>Administration & DevOps Tools:</strong> Azure CLI, Git, GitHub, Jira, ServiceNow, Zendesk, Linux CLI</li>
-<li><strong>AI & Automation:</strong> ChatGPT, Microsoft Copilot, Azure OpenAI, Power Automate</li>
-<li><strong>Endpoint & Asset Management:</strong> Windows endpoint support, device provisioning and deprovisioning, hardware asset lifecycle management, device deployment, M365 administration, remote troubleshooting</li>
-<li><strong>Security & Access Technologies:</strong> KnowBe4, LenelS2 Access Control, physical access control, security awareness</li>
-<li><strong>Compliance & Data Protection:</strong> GDPR, HIPAA, PII handling and data protection concepts</li>
-<li><strong>AV & Collaboration:</strong> Crestron AV systems, conference room technologies, A/V troubleshooting and support</li>
+<ul>
+  <li>
+    <strong>Cloud & Hybrid Infrastructure:</strong>
+    Azure, Windows Server, Microsoft 365, Hyper-V, Windows 11/10, on-premises and hybrid environments
+  </li>
+
+  <li>
+    <strong>Identity & Access Management:</strong>
+    Active Directory Domain Services, Microsoft Entra ID, RBAC, MFA, SSO, Conditional Access, group-based access control, user provisioning and deprovisioning, Joiner-Mover-Leaver lifecycle management, least privilege
+  </li>
+
+  <li>
+    <strong>Windows Server & Networking:</strong>
+    Active Directory, Group Policy, DNS, DHCP, file and storage services, TCP/IP, routing and switching, subnetting, VLANs, NAT, VPNs, Wi-Fi, network troubleshooting
+  </li>
+
+  <li>
+    <strong>Cloud Security & Monitoring:</strong>
+    Microsoft Defender, Microsoft Sentinel, Azure Monitor, Log Analytics, KQL, SIEM concepts, security monitoring, threat detection, access control
+  </li>
+
+  <li>
+    <strong>Automation & Scripting:</strong>
+    PowerShell, Bash, Python, Azure CLI, Power Automate, Microsoft Graph
+  </li>
+
+  <li>
+    <strong>Identity & Authentication Protocols:</strong>
+    OAuth 2.0, OpenID Connect, SAML, LDAP, Kerberos
+  </li>
+
+  <li>
+    <strong>IT Operations & Administration:</strong>
+    Exchange Online, endpoint administration, device provisioning and deprovisioning, asset lifecycle management, ServiceNow, Zendesk, Jira, Git, GitHub, SLA-driven support, technical documentation, playbooks, and operational procedures
+  </li>
+
+  <li>
+    <strong>Governance, Compliance & AI:</strong>
+    AI governance and policy development, GDPR, HIPAA, PII handling, Microsoft Copilot, ChatGPT, Azure OpenAI
+  </li>
+</ul>
 
 </ul>
 
