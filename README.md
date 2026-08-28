@@ -1,5 +1,5 @@
 <h1>Hi, I'm Elijah! <a href="https://www.linkedin.com/in/elijah-small-73305725a/" target="_blank">Connect with me on LinkedIn</a></h1>
-<p>I'm an IT professional with 3+ years of experience across enterprise support, Microsoft 365, Azure, Windows environments, identity and access management, networking, endpoint administration, and IT operations.
+<p>I'm an IT professional with 4+ years of experience across enterprise support, Microsoft 365, Azure, Windows environments, identity and access management, networking, endpoint administration, and IT operations.
 
 My experience includes Windows Server and on-premises infrastructure, with a growing focus on hybrid environments that connect traditional systems with modern cloud services. I have hands-on administrative experience with Microsoft 365, Exchange Online, and Active Directory Domain Services, including user management, access control, troubleshooting, and operational support.
 
